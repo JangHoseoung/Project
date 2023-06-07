@@ -1,0 +1,549 @@
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Properties.Resources.resources
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_WatingNumber_Pop.resources
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\02\02\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\04T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\20230427 pm 2.01\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\06T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk.resources
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\06T - 복사본 (2)\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\07\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\20230428 am 10.09\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\08\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\09T\08T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\10\09T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\11T-20230503T013030Z-001\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\122\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\12\11T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\프로젝트\14Test\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\14\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\14 - 복사본\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\14 - 최신판\14\13T\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\C# 발표자료 수정본\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\C# work\C# 발표자료 수정완료 2\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+C:\Users\User\Desktop\프로젝트3\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+D:\ksm\프로젝트실습\장호성\work\C# 프로젝트\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+C:\Users\User\Desktop\프로젝트수정\C# 프로젝트 23-05-11 - 복사본\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Main\Kiosk_Main.resx
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Window\Pop\Kiosk_Card_Pop.resx
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe.config
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.exe
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\bin\Debug\Hamburger_kiosk.pdb
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Kiosk_Main.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Properties.Resources.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Counter.Window.View.Counter_Product_Add.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.Kiosk_Card_Pop.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.Window.Pop.kiosk_Watingnumber_Pop.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\KB.Window.UC.GoodsButton.resources
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.exe
+C:\Users\User\Desktop\C# 프로젝트 23-05-12\C# 프로젝트T\C# 발표자료\HamburgerStore\HamburgerStore\Hamburger_kiosk\obj\Debug\Hamburger_kiosk.pdb

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Noto+Sans+KR:wght@700&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+
+        * {
+            font-family: 'Noto Sans KR', sans-serif;
+            /* 없으면 sans-serif 사용*/
+            ;
+            font-style: inherit;
+            font-weight: bold;
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            text-align: center;
+            line-height: 5rem;
+        }
+        #top_bag{
+            background-image: linear-gradient(to bottom, #4f46e5, white);
+            height: 200px;
+            color: white;
+        }
+
+        table {
+            border-collapse: collapse;
+            font-size: 3rem;
+        }
+        #trtitle{
+            background-color:#4f46e5;
+            color: white;
+            
+        }
+        th,td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="top_bag">
+        <font style="font-size:4rem">월 납입 보험료 입력</font>
+        <form method="post" style="padding-bottom: 15px;">
+            <input type="text" name="won" id="" style="padding:1px; font-size:20px; border-radius: 7px;">
+            <input class ="btn btn-primary" type="submit" style="padding: 15px;font-size: 15px;" value="전송" />
+        </form>
+    </div>
+    <div style="display: flex; justify-content: center;">
+        <table style="font-size:40px; width: 700px; height: 800px;">
+            <tr id="trtitle">
+                <th>기간</th>
+                <th>매월 지급액</th>
+            </tr>
+            <tr>
+                <td>10년 가입</td>
+                <td>{{result[0]}}</td>
+            </tr>
+            <tr>
+                <td>15년 가입</td>
+                <td>{{result[1]}}</td>
+            </tr>
+            <tr>
+                <td>20년 가입</td>
+                <td>{{result[2]}}</td>
+            </tr>
+            <tr>
+                <td>25년 가입</td>
+                <td>{{result[3]}}</td>
+            </tr>
+            <tr>
+                <td>30년 가입</td>
+                <td>{{result[4]}}</td>
+            </tr>
+            <tr>
+                <td>35년 가입</td>
+                <td>{{result[5]}}</td>
+            </tr>
+            <tr>
+                <td>40년 가입</td>
+                <td>{{result[6]}}</td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

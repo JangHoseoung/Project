@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>  
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="script.js"></script>
+  <script>
+    $(document).ready(function() {
+      setDatepicker('.');
+      // Calculate today's date
+      var Beginday = new Date();
+      Beginday.setDate(Beginday.getDate() - 100);
+      var formattedBeginday = Beginday.toISOString().split('T')[0];
+      
+      $('#datepicker1').datepicker();
+      document.querySelector('#datepicker1').value = formattedBeginday;
+
+
+      var today = new Date();
+      var formattedToday = today.toISOString().split('T')[0];
+      $('#datepicker2').datepicker();      
+      document.querySelector('#datepicker2').value = formattedToday;
+    });
+  </script>
+  <style>
+    .constainer{
+      display:flex;
+      align-items:center;
+    }
+    #datepicker1, #datepicker2, .ui-datepicker-trigger {
+      height: 100%;
+    }
+
+    svg{width:700px; height:440px;border:1px solid black; }
+    .line{fill:none; stroke:black;}
+    .barNum{font-size : 9pt;text-anchor:middle;}
+
+    .axis text{font-family:sans-serif; font-size:11px;}
+    .axis path, .axis line{fill:none; stroke:black;}
+    .axis_x line { fill:none; stroke:black;}
+    .barName{
+      font-size:5pt;
+      text-anchor:middle;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>꺽은선 그래프(일자별 매출액)</h1>
+  <div class="container">
+    <label>년월: </label>
+    <select name="year" id="cbox_year">
+      <option value="2020">2020년</option>
+      <option value="2021">2021년</option>
+      <option value="2022">2022년</option>
+      <option value="2023" selected >2023년</option>
+      <option value="2024">2024년</option>
+      <option value="2025">2025년</option>
+      <option value="2026">2026년</option>
+      <option value="2027">2027년</option>
+      <option value="2028">2028년</option>
+      <option value="2029">2029년</option>
+    </select>
+    <select name="month" id="cbox_month">
+      <option value="01">01월</option>
+      <option value="02">02월</option>
+      <option value="03">03월</option>
+      <option value="04">04월</option>
+      <option value="05" selected >05월</option>
+      <option value="06">06월</option>
+      <option value="07">07월</option>
+      <option value="08">08월</option>
+      <option value="09">09월</option>
+      <option value="10">10월</option>
+      <option value="11">11월</option>
+      <option value="12">12월</option>
+    </select>
+    <button id="btn_search" onclick="search()">조회</button>
+  </div>
+  <div>
+    <svg id="myGraph"></svg>
+  </div>
+  <br>
+  <script>
+    function search(){
+      //년도 선택창 값읽
+      var _year   = document.getElementById('cbox_year').value;
+      var _month   = document.getElementById('cbox_month').value;
+
+      const _d3url = `http://localhost:3000/d3/category?work=03&YEAR=${_year}&MONTH=${_month}`;
+      alert(_d3url);
+
+      fetch(_d3url)
+      .then((response)=>response.json())
+      .then((rows)=>{
+        console.log(rows) 
+        var dataSet = [];
+        var dateSet = [];
+
+
+        //console.log(dataSet);
+        //alert(dataSet)
+        rows.forEach(row=>{
+          dataSet.push(row['TOTAL_SALES']);
+          dateSet.push(row['SALES_DATE'].substring(5));
+        })
+
+        console.log("dataSet ----------");
+        console.log(dataSet);
+        console.log("dateSet----------");
+        console.log(dateSet);
+        //alert('dataSet2 => '+dataSet)
+
+
+        //꺽은선 그래프 그리기 ---------------------
+        d3.select("#myGraph").selectAll("*").remove(); //기존화면 전체 지우기
+        //그래프 초기값 설정
+        var svgWidth = 700;
+        var svgHeight = 440;
+        var padding  = 10;
+        var axisYArea = 40;
+        var axisXArea = 60;
+        var ValueMax  = 60000;
+        var colors    = d3.scale.category20();
+
+        DrawLineGraph(dataSet, dateSet, colors(0) );
+
+        function DrawLineGraph(_dataSet, _dateSet, _color){
+          var graphX  = padding + axisYArea;
+          var graphY  = padding;
+          var graphWidth = svgWidth - (padding*2) - axisYArea;
+          var graphHeight = svgHeight - (padding*2) - axisXArea;
+          var graphMargin = graphWidth / _dataSet.length;
+          var Scale     = graphHeight/ValueMax;
+          var line = d3.svg.line()
+                           .x(function(d,i){
+                            return (i*graphMargin) + (graphMargin/2);
+                           })
+                           .y(function(d,i){
+                            return graphHeight - (d* Scale);
+                           })
+          var lineElements = d3.select("#myGraph")
+                               .append("path")
+                               .attr("class", "line")
+                               .attr("d", line(_dataSet))
+                               .attr("transform",   `translate(${graphX},${graphY})`)
+                               .style("stroke", _color)
+        }
+
+        DrawAxis(dateSet);
+        function DrawAxis(_dateSet){
+          var graphX  = padding + axisYArea;
+          var graphY  = padding;
+          var graphWidth = svgWidth - (padding*2) - axisYArea;
+          var graphHeight = svgHeight - (padding*2) - axisXArea;
+          var graphMargin = graphWidth / _dateSet.length;
+
+          //y축
+          var yScale  = d3.scale.linear()
+                                .domain([0,ValueMax])  //최대값을 반영해서 함수화 할 필요가 있음
+                                .range([graphHeight,0])  //그래프 화면크기를 가지고 함수화 필요
+          d3.select("#myGraph")
+            .append('g')
+            .attr("class","axis")
+            .attr("transform", `translate(${graphX},${graphY})`)
+            //.attr("transform", `translate(${graphX},${graphY-240+ svgHeight +60-axisXArea })`)
+            .call(
+              d3.svg.axis()
+                    .scale(yScale)
+                    .orient("left")
+            )
+
+          //x축
+          d3.select("#myGraph")
+            .append("rect")
+            .attr("class", "axis_x")
+            .attr("width", graphWidth)
+            .attr("height", 1)
+            .attr("transform", `translate(${graphX},${graphY + graphHeight - 0.5})`)
+
+          //레이블
+          labelElements = d3.select("#myGraph")
+              .append("g")
+              .selectAll("text")
+              .data(_dateSet)
+              .enter()
+              .append("text")
+              //.attr("class", "barName")
+              .attr("y", padding + graphHeight + 15)
+              .attr("x", function(d,i){
+                      return (i* graphMargin) + (graphMargin/2) +graphX -5;
+                })
+              .text(function(d,i){
+                return d;//_monthSet[i];
+              })
+              .attr("transform", function(d, i) {
+                return "rotate(90 " + ( ( i* graphMargin) + (graphMargin/2) +graphX) +" "+(padding + graphHeight + 10)+")";
+              })
+
+
+        }
+      })
+    }
+  </script>
+
+</body>
+</html>

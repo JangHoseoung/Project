@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>  
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="script.js"></script>
+  <script>
+    $(document).ready(function() {
+      setDatepicker('.');
+      // Calculate today's date
+      var Beginday = new Date();
+      Beginday.setDate(Beginday.getDate() - 100);
+      var formattedBeginday = Beginday.toISOString().split('T')[0];
+      
+      $('#datepicker1').datepicker();
+      document.querySelector('#datepicker1').value = formattedBeginday;
+
+
+      var today = new Date();
+      var formattedToday = today.toISOString().split('T')[0];
+      $('#datepicker2').datepicker();      
+      document.querySelector('#datepicker2').value = formattedToday;
+    });
+  </script>
+  <style>
+    .constainer{
+      display:flex;
+      align-items:center;
+    }
+    #datepicker1, #datepicker2, .ui-datepicker-trigger {
+      height: 100%;
+    }
+
+    svg{width:400px; height:240px;border:1px solid black; }
+    .pie{fill:orange; stroke:balck;}
+    .bar{fill:orange;}
+    .barNum{font-size : 9pt;text-anchor:middle;}
+
+    .axis text{font-family:sans-serif; font-size:11px;}
+    .axis path, .axis line{fill:none; stroke:black;}
+    .axis_x line { fill:none; stroke:black;}
+    .barName{
+      font-size:9pt;
+      text-anchor:middle;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>원그래프(품목별 매출건수)</h1>
+  <div class="container">
+    <label>날짜: </label>
+    <input type="text" id="datepicker1"> ~
+    <input type="text" id="datepicker2">
+    <button id="btn_search" onclick="search()">조회</button>
+  </div>
+  <div>
+    <svg id="myGraph" style="margin-left: 40px; margin-top: 10px;"></svg>
+  </div>
+  <br>
+  <h1 style="margin-left: 40px;">결과메시지</h1>
+  <h3 id="result_msg" style="margin-left: 40px;"></h3>
+  <script>
+    function search(){
+      //달력값읽기
+      var _begin = document.getElementById('datepicker1').value;
+      var _end   = document.getElementById('datepicker2').value;
+
+      const _d3url = `http://localhost:3000/d3/category?work=02&begin=${_begin}&end=${_end}`;
+      alert(_d3url);
+
+      fetch(_d3url)
+      .then((response)=>response.json())
+      .then((rows)=>{
+        console.log(rows) 
+        /* 
+        rows.forEach(row => {
+          alert('row => ' + row);
+          for(var col in row){
+            alert(col + ' => ' + row[col]);
+          }          
+        }); 
+        */ 
+        dataSet =[
+          { CTR_TYPENUMBER: 1, CTR_NAME: '세트', TOTAL_SALES: 0 },
+          { CTR_TYPENUMBER: 2, CTR_NAME: '햄버거', TOTAL_SALES: 0 },
+          { CTR_TYPENUMBER: 3, CTR_NAME: '음료', TOTAL_SALES: 0 },
+          { CTR_TYPENUMBER: 4, CTR_NAME: '사이드', TOTAL_SALES: 0 },
+          { CTR_TYPENUMBER: 5, CTR_NAME: '베스트', TOTAL_SALES: 0 }
+        ]; 
+
+        //console.log(dataSet);
+        //alert(dataSet)
+        rows.forEach(row=>{
+          for(var _idx =0; _idx<dataSet.length; _idx++){
+            if(dataSet[_idx].CTR_TYPENUMBER ===  row['CTR_TYPENUMBER']){
+              dataSet[_idx].TOTAL_SALES = row['TOTAL_SALES'];
+              break;
+            }
+          }
+        })
+
+        console.log(dataSet);
+        //alert('dataSet2 => '+dataSet)
+
+        barLabels = [];
+        barDatas  = [];
+        for(var _ddx = 0; _ddx<dataSet.length; _ddx++){
+          barLabels.push(dataSet[_ddx].CTR_NAME);
+          barDatas.push(dataSet[_ddx].TOTAL_SALES);
+        }
+
+        document.getElementById('result_msg').innerHTML = barLabels+'<br>'+barDatas;
+
+        //기존화면 전체지우기
+        d3.select("#myGraph").selectAll("*").remove();
+
+        //초기화
+        var svgWidth  = 400;
+        var svgHeight = 240;
+        var inRadius  = 0;
+        var outRadius = 100;
+        var centerX   = svgWidth/2;
+        var centerY   = svgHeight/2;
+
+        var pie = d3.layout.pie();
+      
+        var arc = d3.svg.arc().innerRadius(inRadius).outerRadius(outRadius);
+
+        //데이터값 설정
+        var pieElements = d3.select("#myGraph")
+                            .selectAll("path")
+                            .data(pie(barDatas))
+
+        //파이(부채꼴) 추가 , 좌표설정, 속성 설정
+        pieElements.enter()
+                   .append("path")
+                   .attr("class","pie")
+                   .attr("d", arc)
+                   .attr("transform", `translate(${centerX},${centerY})`)
+                   .style("fill",function(d,i){
+                    return ["red","orange","yellow","green","blue","navy","violet"][i];
+                   })
+                   .on("mouseover", function(d,i){
+                    d3.select(this).style("fill", "gray");
+                   })
+                   .on("mouseout", function(d,i) {
+                    d3.select(this).style("fill",
+                     ["red","orange","yellow","green","blue","navy","violet"][i]   
+                    )
+                   })
+        
+        //파이 중앙에 데이터 값표시
+        pieElements.enter()
+                   .append("text")
+                   .attr("class","barNum")
+                   .attr("transform", function(d,i){
+                    //부채꼴의 무게중심
+                    const[px,py] = arc.centroid(d);
+                    return `translate(${centerX + px},${centerY+ py})`;
+                   })
+                   .text(function(d,i){return d.value;})
+      })
+    }
+  </script>
+
+</body>
+</html>

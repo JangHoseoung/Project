@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79F1D4E6-0DFB-47F6-9B0C-C2850B0AD1EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KB</RootNamespace>
+    <AssemblyName>Counter</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Lib\Manager\App.cs" />
+    <Compile Include="Lib\Manager\DBManager.cs" />
+    <Compile Include="Lib\Manager\DocManager.cs" />
+    <Compile Include="Lib\Manager\IniManager.cs" />
+    <Compile Include="Lib\Manager\OracleManager.cs" />
+    <Compile Include="Lib\Window\Frame\MasterPop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lib\Window\Frame\MasterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lib\Window\Frame\MasterView.designer.cs">
+      <DependentUpon>MasterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\Main\Counter_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Main\Counter_Main.Designer.cs">
+      <DependentUpon>Counter_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Window\Pop\ConnectSettingPop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Pop\ConnectSettingPop.Designer.cs">
+      <DependentUpon>ConnectSettingPop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Analyze_Detatil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Analyze_Detatil.Designer.cs">
+      <DependentUpon>Counter_Analyze_Detatil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Analyze_Graph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Analyze_Graph.Designer.cs">
+      <DependentUpon>Counter_Analyze_Graph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Member_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Member_Add.Designer.cs">
+      <DependentUpon>Counter_Member_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Orders_Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Orders_Detail.Designer.cs">
+      <DependentUpon>Counter_Orders_Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\View\Counter_Analyze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\View\Counter_Analyze.Designer.cs">
+      <DependentUpon>Counter_Analyze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\View\Counter_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\View\Counter_login.Designer.cs">
+      <DependentUpon>Counter_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\View\Counter_Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\View\Counter_Member.Designer.cs">
+      <DependentUpon>Counter_Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\View\Counter_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\View\Counter_Product.Designer.cs">
+      <DependentUpon>Counter_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Product_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\Pop\Counter_Product_Add.Designer.cs">
+      <DependentUpon>Counter_Product_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Window\View\Counter_Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window\View\Counter_Orders.Designer.cs">
+      <DependentUpon>Counter_Orders.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Lib\Window\Frame\MasterPop.resx">
+      <DependentUpon>MasterPop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lib\Window\Frame\MasterView.resx">
+      <DependentUpon>MasterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Window\Main\Counter_Main.resx">
+      <DependentUpon>Counter_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\Pop\ConnectSettingPop.resx">
+      <DependentUpon>ConnectSettingPop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\Pop\Counter_Analyze_Detatil.resx">
+      <DependentUpon>Counter_Analyze_Detatil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\Pop\Counter_Member_Add.resx">
+      <DependentUpon>Counter_Member_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\Pop\Counter_Orders_Detail.resx">
+      <DependentUpon>Counter_Orders_Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\Pop\Counter_Product_Add.resx">
+      <DependentUpon>Counter_Product_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\View\Counter_Analyze.resx">
+      <DependentUpon>Counter_Analyze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\View\Counter_login.resx">
+      <DependentUpon>Counter_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\View\Counter_Member.resx">
+      <DependentUpon>Counter_Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\View\Counter_Orders.resx">
+      <DependentUpon>Counter_Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window\View\Counter_Product.resx">
+      <DependentUpon>Counter_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Lib\Window\Frame\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

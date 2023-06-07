@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+        * {
+            font-family: 'Seymour One', sans-serif; /* 없으면 sans-serif 사용*/;
+            font-style: inherit;
+            font-weight: bold;
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            background-color: darkgray;
+        }
+        body{
+            text-align: center;
+            margin: 3rem;
+            line-height: 5rem;
+        }
+    </style>
+</head>
+<body>
+    <font style="font-size:4rem" >보험료 입력</font>
+    <form method="post">
+        <input type="text" name="won" id="" style="padding:15px;font-size:15px;border: radius 7px;" >
+        <input type="submit" style="padding: 15px;font-size: 15px;" value="전송"/>
+    </form>
+<h1>10년 가입 {{result[0]}}</h1>
+<h1>15년 가입 {{result[1]}}</h1>
+<h1>20년 가입 {{result[2]}}</h1>
+<h1>25년 가입 {{result[3]}}</h1>
+<h1>30년 가입 {{result[4]}}</h1>
+<h1>35년 가입 {{result[5]}}</h1>
+<h1>40년 가입 {{result[6]}}</h1>
+</body>
+</html>

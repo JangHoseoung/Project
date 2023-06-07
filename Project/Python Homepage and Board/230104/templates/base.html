@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShareHow</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Noto+Sans+KR:wght@700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/static/mystyle.css">
+    <script>
+        function openPopup() {
+            window.open("dusrma", "Popup Window", "width=800, height=1000");
+        }
+    </script>
+</head>
+
+<body>
+    <div id="top_wrap" style="overflow: hidden; position: absolute; width: 100%; height: 10vh; z-index: -1;">
+        <video src="/static/snowy.mp4" autoplay muted loop id="move1">
+        </video>
+    </div>
+    <div class="header_container">
+        <header class="main_header">
+            <div class="nav">
+                <h1 class="logo">share<span>How?</span></h1>
+                <ul class="nav_menu">
+                    <li class="nav_menu_item">
+                        <a href="/">home</a>
+                    </li>
+                    <li class="nav_menu_item">
+                        <a href="#">about</a>
+                    </li>
+                    <li class="nav_menu_item">
+                        <a href="#">blog</a>
+                    </li>
+                    <li class="nav_menu_item contact">
+                        <a href="#">contact</a>
+                    </li>
+                </ul>
+            </div>
+        </header>
+    </div>
+    <div class="div_half">
+        <div class="div_1">
+            <h2><a href="#">Who?</a></h1>
+        </div>
+        <div class="div_2">
+            <h2><a href="#">How?</a></h1>
+        </div>
+        <div class="div_3">
+            <h2><a href="/freeboard">Freeboard</a></h1>
+        </div>
+        <div class="div_4">
+            <h2><a href="#" onclick="openPopup()">Pension</a></h1>
+        </div>
+        <div class="div_5">
+            <h2><a href="/Lotto">Lotto</a></h1>
+        </div>
+    </div>
+    {% block content %}
+    {% endblock %}
+    <div id="wrap">
+        <section></section>
+        <footer>
+            <nav style="background-color: #b3d7f0;">
+                <a href="" class="footer_A"></a>
+                <a href="" class="footer_A"></a>
+            </nav>
+            <p class="footer_P" style="background-color: #b3d7f0; color: #8d8b8b;">
+                <span>Editor : hs.Jang</span><br>
+                <span>E-mail : hs.Jang@naver.com</span><br>
+                <span>Copyright 2023. hs.Jang. All Right Reserved</span><br>
+            </p>
+        </footer>
+    </div>

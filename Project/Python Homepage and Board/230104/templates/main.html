@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="div_half2">
+    <div id="blank_div"></div>
+    <div class="div_h1">
+        <h1 style="text-align: center;">오늘의 <span style="color: #534EB6;">시</span></h1>
+        <h2 style="text-align: center; line-height: 50px;">한 스푼</h2>
+        <h3 style="text-align: right; margin-right: 200px; line-height: 30px;">최대호</h3>
+        <p><h2 style="text-align: center;">누군가<br> 나에게 아메리카노를 주었어<br> 나는 쓴 커피를 안좋아하는데<br> 시럽은 없고<br> 그냥 먹기에는  너무 써서<br> 니 생각을 넣었어</h2></p>
+    </div>
+    <div class="div_h2">
+        <h1 style="text-align: center;">오늘의<span style="color: #534EB6;">영상</span></h1>
+        <div class="video_Container" style="margin-left: 6rem;">
+            <iframe src="https://www.youtube.com/embed/VpTALMK8LRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="800px" height="500px"></iframe>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+<script>
+function openPopup() {
+    window.open("dusrma", "Popup Window", "width=800, height=800");
+}
+</script>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 style="color: #4f46e5; margin-left: 25%;">Write</h1>
+<div class="container">
+    <form action="/freeboard/insertproc" method="post" style="margin-left: 25%; margin-top: 0.5%; font-size: 1.5rem;" >
+        제목
+        <input class = "form-control" type="text" name="title" name="" id="" style="height: 2rem; margin-left:1%; margin-bottom: 0.5rem; width: 800px;"><BR>
+        내용<br>
+        <textarea name="content" class="form-control" style="width: 1000px; height: 400px; margin-bottom: 0.5rem;"></textarea><br>
+        작성자
+        <input class="form-control" type="text" name="writer" id="" style="height: 2rem;"><br>
+        <input class="btn btn-primary" type="submit" value="글작성" style="margin-left: 65%; width: 4.5rem;">
+    </form>
+</div>
+{% endblock %}

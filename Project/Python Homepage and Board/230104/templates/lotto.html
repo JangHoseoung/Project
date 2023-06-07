@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<style>
+    .num{
+        display: flex;
+        margin-top: 2%;
+    }
+    .num>div{
+
+        line-height: 8rem;
+        text-align: center;
+        border: 1px solid white;
+        width: 150px; height: 150px;
+        border-radius: 5rem 5rem 5rem 5rem;
+        margin-left: 3%;
+        font-size: 50px;
+        color: white;
+    }
+</style>
+<div id="wrap">
+    <h2 style="text-align: center; margin-top: 3rem;">{{turn}}</h2>
+    <h1 style="text-align: center;">이번주 행운의 <span style="color: #ffcf40;">로또번호</span></h1>
+    <div style="margin-left: 5%; margin-top: 7%;">
+        <div class="num">
+            <div style="background-color: #72caf3;"><h2>{{number[0]}}</h2></div>
+            <div style="background-color: #72caf3;"><h2>{{number[1]}}</h2></div>
+            <div style="background-color: #eb8b5e;"><h2>{{number[2]}}</h2></div>
+            <div style="background-color: #c9c9c9;"><h2>{{number[3]}}</h2></div>
+            <div style="background-color: #c9c9c9;"><h2>{{number[4]}}</h2></div>
+            <div style="background-color: #9ff069;"><h2>{{number[5]}}</h2></div>
+            <div style="border: 1px solid white; color: black;" ><h2>+</h2></div>
+            <div style="background-color: #eb8b5e;"><h2>{{bonus}}</h2></div>
+        </div>
+    </div>
+    <h3 style="text-align: right; margin-right: 5%; margin-top: 1%;">당첨금 : ({{potmoney}})</h3>
+    </div>
+</div>
+
+
+
+{% endblock %}
+

@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+.nav .nav_menu{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 2rem;
+    margin-right: 50px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 50px   ;
+}
+.logo{
+    color: #534eb6;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:25px;
+}
+.logo span{
+    color: #202020
+}
+
+.nav .nav_menu a{
+    color: #222;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.nav .nav_menu .contact{
+    background-color: #4f46e5;
+    padding: 8px 12px;
+    border-radius: 2rem;
+}
+.nav .nav_menu .contact a{
+    color:white
+}
+.div_half{
+    margin-top: 30px;
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    background-color: #4f46e5;
+
+    
+}
+.div_1{
+    margin-top: 10px;
+    width: 20%;
+    float: left;
+    border-right: 1px solid black;
+    text-align: center;
+}
+a{
+    text-decoration-line: none;
+    color: white;
+}
+.div_2{
+    margin-top: 10px;
+    width: 20%;
+    float: left;
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.div_3{
+    margin-top: 10px;
+    width: 20%;
+    float: left;
+    border-right: 1px solid black;
+    text-align: center;
+}
+.div_4{
+    margin-top: 10px;
+    width: 20%;
+    float: left;
+    border-right: 1px solid black;
+    text-align: center;
+}
+.div_5{
+    margin-top: 10px;
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+.div_half2{
+    margin-top: auto;
+    width: 100%;
+    overflow: hidden;
+}
+#blank_div{
+    margin-top: 3.5rem;
+}
+.div_h1{
+    width: 50%;
+    float: left;
+    border-right: 1px solid #c4c4c4;
+    line-height: 4.5rem;
+}
+.div_h2{
+    width: 50%;
+    line-height: 70px;
+    align-items: center;
+    float: left;
+}
+#wrap{
+    height: auto;
+    min-height: 100%;
+    padding-bottom: 10px;
+    width: 100%;
+    border-top: 1px solid #c4c4c4;
+    margin-top: 3rem;
+}
+footer{
+    width: 100%;
+    height: 10px;
+    bottom: 0px;
+    position: absolute;
+    font-size: 15px;
+    transform: translateY(-900%);
+}
+footer a{
+    display: inline-block;
+    margin: 0 20px 10px 20px;
+    color: #080808; font-size: 11px;
+}
+section{
+    padding-bottom: 105px;
+    
+}
+footer p{
+    margin-top: 0; margin-bottom: 0;
+    
+}
+footer p span{
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+
+html, body{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
