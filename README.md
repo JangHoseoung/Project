@@ -9,7 +9,7 @@
 
 
 
-https://github.com/JangHoseoung/Project/assets/120068863/10941609-d916-4f7b-a771-c13e55a9e50e
+https://github.com/JangHoseoung/Project/assets/120068863/10941609-d916-4f7b-a771-c13e55a9e50e?width="100"
 
 
 
