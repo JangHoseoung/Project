@@ -12,7 +12,13 @@
 [![video](https://img.youtube.com/vi/Vj6YGJwXoB4/0.jpg)](https://youtu.be/Vj6YGJwXoB4)
 <br>파이썬 홈페이지 만들기<br>
 [![video](https://img.youtube.com/vi/_5BmxOgh8qI/0.jpg)](https://youtu.be/_5BmxOgh8qI)
-<br>파이썬 게시판 구현<
+<br>파이썬 게시판 구현<br>
+[![video](https://img.youtube.com/vi/tZTgQDFC3lw/0.jpg)](https://youtu.be/tZTgQDFC3lw)
+<br>C# 키오스크 구현<br>
+[![video](https://img.youtube.com/vi/482KpeDlhbA/0.jpg)](https://youtu.be/482KpeDlhbA)
+<br>C# D3js 시각화<
+
+
 
 
 
