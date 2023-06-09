@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+
   [![video](https://img.youtube.com/vi/B-Qpb2_Oz48/0.jpg)](https://youtu.be/B-Qpb2_Oz48)
   <br>웹 크롤링(엑셀)<br>
   [![video](https://img.youtube.com/vi/rMnaoY__TUw/0.jpg)](https://youtu.be/rMnaoY__TUw)
@@ -17,7 +17,7 @@
   <br>C# 키오스크 구현<br>
   [![video](https://img.youtube.com/vi/482KpeDlhbA/0.jpg)](https://youtu.be/482KpeDlhbA)
   <br>C# D3js 시각화
-</div>
+
 
 
 
