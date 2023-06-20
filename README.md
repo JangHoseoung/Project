@@ -17,7 +17,7 @@
   [![video](https://img.youtube.com/vi/tZTgQDFC3lw/0.jpg)](https://youtu.be/tZTgQDFC3lw)
   <br>C# 키오스크 구현<br><br>
   [![video](https://img.youtube.com/vi/482KpeDlhbA/0.jpg)](https://youtu.be/482KpeDlhbA)
-  <br>C# D3js 시각화
+  <br>C# D3js 시각화<br><br>
   [![video](https://img.youtube.com/vi/51uer0JbwWA/0.jpg)](https://youtu.be/51uer0JbwWA)
   <br>C# AWS 연결
 
