@@ -2,6 +2,7 @@
 
 <div align="center">
 <h2>프로젝트 portfolio</h2>
+  <span>👏이미지 클릭시 유튜브로 이동합니다👏</span>
 <hr>
 
   
