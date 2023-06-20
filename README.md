@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>프로젝트 portfolio</h2>
-  <span>👏이미지 클릭시 유튜브로 이동합니다👏</span>
+
 <hr>
   [![video](https://img.youtube.com/vi/B-Qpb2_Oz48/0.jpg)](https://youtu.be/B-Qpb2_Oz48)
   <br>웹 크롤링(엑셀)<br><br>
