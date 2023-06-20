@@ -1,7 +1,6 @@
 # Project
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=round&color=auto&height=300&section=header&text=안녕하세요&fontSize=20px)
-<h2>프로젝트 portfolio</h2> <span>(클릭시 유튜브로 이동합니다)</span>
+<h2>프로젝트 portfolio</h2> <span style="color:yellow">노란 글씨입니다.</span>
 <hr>
 
   [![video](https://img.youtube.com/vi/B-Qpb2_Oz48/0.jpg)](https://youtu.be/B-Qpb2_Oz48)
