@@ -1,7 +1,9 @@
 # Project
+$\color{red}{\textrm{유튜브}}$
 <div align="center">
+
 <h2>프로젝트 portfolio</h2> <span>이미지클릭시유튜브로 이동합니다</span>
-$\color{lightblue}{\textrm{여기에 글자를 입력}}$
+
 <hr>
 
   [![video](https://img.youtube.com/vi/B-Qpb2_Oz48/0.jpg)](https://youtu.be/B-Qpb2_Oz48)
