@@ -1,5 +1,5 @@
 # Project
-$\color{red}{\textrm{이미지 클릭시 유튜브로 이동합니다}}$
+
 <div align="center">
 
 <h2>프로젝트 portfolio</h2> 
