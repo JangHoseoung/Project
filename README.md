@@ -1,6 +1,6 @@
 # Project
 <div align="center">
-프로젝트 portfolio (클릭시 유튜브로 이동합니다)
+<h2>프로젝트 portfolio</h2> <h2 style="color=red">(클릭시 유튜브로 이동합니다)</h2>
 <hr>
 
 
